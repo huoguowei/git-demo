@@ -16,4 +16,4 @@ hello China! hello git!
 hello China! hello git!
 hello China! hello git! master test
 hello China! hello git!
-hello China! hello git!
+hello China! hello git! hot-fix test
